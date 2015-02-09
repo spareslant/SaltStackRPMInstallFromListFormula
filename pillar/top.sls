@@ -1,0 +1,3 @@
+baseenv:
+  '*':
+    - allrpmpackages
